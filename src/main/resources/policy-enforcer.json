@@ -1,0 +1,8 @@
+{
+  "realm": "hotel-rating",
+  "auth-server-url" : "http://localhost:8080",
+  "resource": "first",
+  "credentials": {
+    "secret": "yXhIy2GnJmf3NzrKSfFj6vY2E86vr56J"
+  }
+}
